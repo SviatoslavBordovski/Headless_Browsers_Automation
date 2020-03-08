@@ -11,7 +11,7 @@ driver = webdriver.Chrome(chrome_options=chrome_options, executable_path="/home/
 #Open the url
 driver.get('https://google.com')
 print(driver.title, 'website is launched') #result of running so we could see it in the terminal
-time.sleep(5) #Give it a while to download fully
+time.sleep(5) #Give it a while to download the page elements fully
 
 driver.find_element_by_name('q').send_keys('I love Python')
 print('Keys are sent')
