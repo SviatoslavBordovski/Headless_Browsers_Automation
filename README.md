@@ -4,4 +4,5 @@ Each Browser has own specific of the testing regarding automation.
 
 Firefox and Chrome do not have big difference in the automated testing.
 
-1. Gecko driver is required for the <b>Firefox</b>
+1. <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.
+2. 
