@@ -2,7 +2,7 @@
 
 <p>Each Browser has own specific of the testing regarding automation.</p>
 
-Firefox and Chrome do not have big difference in the automated testing.</p>
+Firefox and Chrome do not have big difference in the automated testing:</p>
 <br>
 <ul>
 <li><i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</li>
