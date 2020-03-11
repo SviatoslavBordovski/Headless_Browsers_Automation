@@ -14,8 +14,7 @@ Firefox and Chrome do not have big difference in the automated testing.
 <code>chrome_options.add_argument("--headless")</code>
 
 <br>
-Advantages of using <b>headless</b> browser testing approach are:
-
+<p>Advantages of using <b>headless</b> browser testing approach are:</p>
 <br>
 <ol>
    <li>Better test performance compared to browser automation</li>
