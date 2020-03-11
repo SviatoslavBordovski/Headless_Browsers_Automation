@@ -1,4 +1,4 @@
-<b>Headless Browsers</b>
+<b>Short Readme document about Headless Browsers</b>
 
 Each Browser has own specific of the testing regarding automation.
 
