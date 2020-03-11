@@ -23,5 +23,5 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
    <li>Time consuming tests would run less as a result.</li>
    <li>Opportunity to run tests on a system which doesn’t have a browser or for the app that does not have a GUI.</li>
    <li>Scrape website without a render of the full browser, you just need to compare some data, prices for instance.</li>
-   <li>123</li>
+   <li>It could be a part of TDD that is very interesting and effective approach in web automation testing.</li>
 </ol>
