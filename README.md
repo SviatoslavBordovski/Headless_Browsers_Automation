@@ -8,6 +8,6 @@ Firefox and Chrome do not have big difference in the automated testing.
 2. Make sure that you have set the path of each driver. It is required as well.
 3. You need to import <b>options</b> and add <b>--headless</b> argument:
 <br>
-   <code>chrome_options = Options()
+   <code>chrome_options = Options()</code>
    <br>
-   chrome_options.add_argument("--headless")</code>
+   <code>chrome_options.add_argument("--headless")</code>
