@@ -21,7 +21,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <ol>
    <li>Better test performance compared to browser automation.</li>
    <li>Time consuming tests would run less as a result.</li>
-   <li>Opportunity to run the tests on a system which doesn’t have a browser or for the app that does not have a GUI.</li>
+   <li>Opportunity to run tests on a system which doesn’t have a browser or for the app that does not have a GUI.</li>
    <li>123</li>
    <li>123</li>
 </ol>
