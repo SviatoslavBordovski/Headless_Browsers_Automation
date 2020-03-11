@@ -1,8 +1,8 @@
-<b>Short Readme document about Headless Browsers</b>
+<h2><b>Short Readme document about Headless Browsers</b></h2>
 
-Each Browser has own specific of the testing regarding automation.
+<p>Each Browser has own specific of the testing regarding automation.</p>
 
-Firefox and Chrome do not have big difference in the automated testing.
+Firefox and Chrome do not have big difference in the automated testing.</p>
 <br>
 1. <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.
 2. Make sure that you have set the path of each driver. It is required as well.
