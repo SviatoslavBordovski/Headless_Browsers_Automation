@@ -28,7 +28,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 
 <h3>Popular Headless Browsers:</h3>
 <ul>
-<li>Google Puppeteer is a Headless Browser Puppeteer in a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also can also be tweaked to use full (non-headless) Chrome or Chromium</li>
+<li>Google Puppeteer - the Headless Browser Puppeteer is a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also can also be tweaked to use full (non-headless) Chrome or Chromium</li>
 <li>Google Chrome since version 59</li>
 <li>Firefox versions 55 & 56</li>
 <li>HtmlUnit is a “GUI-Less browser for Java programs”. It models HTML documents and provides an API that allows you to invoke pages, fill out forms, click links, etc… just like you do in your “normal” browser</li>
