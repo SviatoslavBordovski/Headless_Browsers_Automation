@@ -19,7 +19,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <p>Advantages of using <b>headless</b> browser testing approach are:</p>
 <br>
 <ol>
-   <li>Better test performance compared to browser automation.</li>
+   <li>Better test performance compared to browser automation because headless browsers run faster.</li>
    <li>Time consuming tests would run less as a result.</li>
    <li>Opportunity to run tests on a system which doesn’t have a browser or for the app that does not have a GUI.</li>
    <li>Scrape website without a render of the full browser, you just need to compare some data, prices for instance.</li>
