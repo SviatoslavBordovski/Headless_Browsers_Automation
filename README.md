@@ -16,8 +16,9 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <code>chrome_options.add_argument("--headless")</code>
 
 <h4> and for the Firefox browser...</h4>
-firefox_options = Options() #Assign the options for the webdriver.FirefoxOptions
-firefox_options.add_argument('--headless')
+<code>firefox_options = Options()</code>
+<br>
+<code>firefox_options.add_argument('--headless')</code>
 
 <br>
 <h3>Advantages of using <b>headless</b> browser testing approach are:</h3>
