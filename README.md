@@ -12,7 +12,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <h4>How it looks for the Chrome browser...</h4>
 <code>chrome_options = Options()</code>
 <br>
-<code>chrome_options.add_argument("--headless")</code>
+<code>chrome_options.add_argument('--headless')</code>
 
 <h4> and for the Firefox browser...</h4>
 <code>firefox_options = Options()</code>
