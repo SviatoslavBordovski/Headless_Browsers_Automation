@@ -10,10 +10,14 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <li>You need to import <b>options</b> and add <b>--headless</b> argument:</li>
 </ul>
 <br>
-
+<h4>How it looks for the Chrome browser...</h4>
 <code>chrome_options = Options()</code>
 <br>
 <code>chrome_options.add_argument("--headless")</code>
+
+<h4> and for the Firefox browser...</h4>
+firefox_options = Options() #Assign the options for the webdriver.FirefoxOptions
+firefox_options.add_argument('--headless')
 
 <br>
 <h3>Advantages of using <b>headless</b> browser testing approach are:</h3>
