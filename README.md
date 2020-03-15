@@ -26,7 +26,7 @@
             </a>
            </p>
 <br>
-           <p>
+           <div style="float:left">
             <h4>How it looks for the Chrome browser :point_down:</h4>
             <code>chrome_options = Options()</code>
             <br>
@@ -36,7 +36,7 @@
             <code>firefox_options = Options()</code>
             <br>
             <code>firefox_options.add_argument('--headless')</code>
-           </p>
+           </div>
         </div>
    </div>
 </div>
