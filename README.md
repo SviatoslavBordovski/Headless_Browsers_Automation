@@ -31,7 +31,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 
 <hr border-top="0.5px solid red">
 
-<p align="center" display="block" margin-left="auto margin-right="auto" margin-top="20px">
+<p align="center" display="block" margin-left="auto margin-right="auto" margin-bottom="20px">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
 <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="400" height="240">
 </a>
