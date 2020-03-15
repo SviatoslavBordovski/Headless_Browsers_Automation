@@ -15,10 +15,10 @@
 
 <p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
-<p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument:</p>
+<p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
 
 <br>
-<h4>How it looks for the Chrome browser...</h4>
+<h4>How it looks for the Chrome browser :point_down:</h4>
 <code>chrome_options = Options()</code>
 <br>
 <code>chrome_options.add_argument('--headless')</code>
