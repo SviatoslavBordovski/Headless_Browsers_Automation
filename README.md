@@ -15,10 +15,10 @@
 <br>
            <div align="center">
            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
+            <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180" margin-right="15px">
             </a>
            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img border-radius="3px" alt="headless-browser" src="https://gph.is/17BWAXA" width="320" height="180">
+            <img border-radius="3px" alt="headless-browser" src="https://miro.medium.com/max/3440/0*WHo7bG8yHKyt_nzn.png" width="320" height="180" margin-left="15px">
             </a>
            </div>
 <br>
