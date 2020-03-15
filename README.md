@@ -13,7 +13,7 @@
 
 Firefox and Chrome do not have big difference in the automated testing:</p>
 <ul>
-<li><i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</li>
+<li>:pushpin:<i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</li>
 <li>Make sure that you have set the path of each driver. It is required as well.</li>
 <li>You need to import <b>options</b> and add <b>--headless</b> argument:</li>
 </ul>
