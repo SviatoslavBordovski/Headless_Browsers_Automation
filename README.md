@@ -11,12 +11,12 @@
 <body>
 <p>Each Browser has own specific of the testing regarding automation.</p>
 
-Firefox and Chrome do not have big difference in the automated testing:</p>
-<ul>
-<li>:pushpin:<i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</li>
-<li>Make sure that you have set the path of each driver. It is required as well.</li>
-<li>You need to import <b>options</b> and add <b>--headless</b> argument:</li>
-</ul>
+<p>Firefox and Chrome do not have big difference in the automated testing:</p>
+
+<p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
+<p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
+<p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument:</p>
+
 <br>
 <h4>How it looks for the Chrome browser...</h4>
 <code>chrome_options = Options()</code>
