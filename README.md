@@ -19,11 +19,10 @@
 <br>
 
 <div class="container">
-    <div class="row">
-           <p align="right"><a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+           <div align="right"><a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
             <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
             </a>
-           </p>
+           </div>
 <br>
            <p align="left">
             <h4>How it looks for the Chrome browser :point_down:</h4>
