@@ -29,6 +29,8 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <code>firefox_options.add_argument('--headless')</code>
 <br>
 
+<hr border-top"1px dashed red">
+
 <p align="center" display="block" margin-left="auto margin-right="auto" margin-top="20px">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
 <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="240">
