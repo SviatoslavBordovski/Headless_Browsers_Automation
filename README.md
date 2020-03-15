@@ -22,7 +22,11 @@
 <code>chrome_options = Options()</code>
 <br>
 <code>chrome_options.add_argument('--headless')</code>
-
+<p align="center" display="block" margin-left="auto margin-right="auto">
+<a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240">
+</a>
+</p>
 <h4>:point_down: and for the Firefox browser...</h4>
 <code>firefox_options = Options()</code>
 <br>
