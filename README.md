@@ -35,7 +35,7 @@
 <br>
 <p align="center" display="block" margin-left="auto margin-right="auto">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240">
+<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240"> <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240">
 </a>
 </p>
 <br>
