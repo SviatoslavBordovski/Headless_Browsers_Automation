@@ -27,8 +27,8 @@
 <code>firefox_options = Options()</code>
 <br>
 <code>firefox_options.add_argument('--headless')</code>
-
 <br>
+
 <div>
 <p align="center" display="block" margin-left="auto margin-right="auto">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
