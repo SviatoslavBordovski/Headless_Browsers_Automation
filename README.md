@@ -25,11 +25,19 @@
     <div class="row">        
         <div class="col-md-4 col-xs-12">
             <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-                    browser.jpg" width="320" height="180">
+            <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-                                            content/uploads/2018/07/Headless-                    browser.jpg" width="320" height="180">
             </a>
         </div>
+        <br>
        <code>chrome_options = Options()</code>
+       <br>
        <code>chrome_options.add_argument('--headless')</code>
+       <br>
+        <h4>:point_down: and for the Firefox browser...</h4>
+<code>firefox_options = Options()</code>
+<br>
+<code>firefox_options.add_argument('--headless')</code>
+<br>
    </div>
 </div>
 
