@@ -29,7 +29,7 @@
 <code>firefox_options.add_argument('--headless')</code>
 <br>
 
-<hr style="border-top: 1px solid red">
+<!--<hr style="border-top: 1px solid red">-->
 <br>
 <div>
 <p align="center" display="block" margin-left="auto margin-right="auto">
