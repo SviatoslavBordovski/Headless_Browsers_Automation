@@ -1,5 +1,10 @@
-<h2><b>Short Readme document about Headless Browsers</b></h2>
+<html>
 
+<header>
+<h2><b>Short Readme document about Headless Browsers</b></h2>
+</header>
+
+<body>
 <p>Each Browser has own specific of the testing regarding automation.</p>
 
 Firefox and Chrome do not have big difference in the automated testing:</p>
@@ -21,7 +26,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
 <br>
 
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="800" height="480">
+<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="640" height="480" style="float: center">
 </a>
 
 <br>
@@ -43,3 +48,5 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
    <li><a href="http://htmlunit.sourceforge.net/">HtmlUnit</a> is a “GUI-Less browser for Java programs”. It models HTML          documents and provides an API that allows you to invoke pages, fill out forms, click links, etc… just like you do in your      “normal” browser</li>
    <li><a href="https://splinter.readthedocs.io/en/latest/">Splinter</a> is a headless browser Python-centric option.  It's      open sourced and is used for testing web applications using Python.  For example, you can use it to automate browser          actions, such as visiting URLs and interacting with their items</li>
 </ul>
+</body>
+</html>
