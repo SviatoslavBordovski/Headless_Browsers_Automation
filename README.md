@@ -27,7 +27,7 @@
 <code>firefox_options = Options()</code>
 <br>
 <code>firefox_options.add_argument('--headless')</code>
-
+<br>
 
 <br>
 <p align="center" display="block" margin-left="auto margin-right="auto">
