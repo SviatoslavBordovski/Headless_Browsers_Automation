@@ -1,9 +1,5 @@
 <html>
 
-<head>
-<title>Headless Browsers Automation</title>
-</head>
-
 <header>
 <h2><b>Short Readme document about Headless Browsers</b></h2>
 </header>
