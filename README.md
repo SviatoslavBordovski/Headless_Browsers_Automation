@@ -1,5 +1,18 @@
 <html>
 
+<head>
+<style>
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+</style>
+</head>
+
 <header>
 <h2><b>Short Readme document about Headless Browsers</b></h2>
 </header>
