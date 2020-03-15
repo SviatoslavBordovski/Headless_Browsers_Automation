@@ -19,9 +19,20 @@
 
 <br>
 <h4>How it looks for the Chrome browser :point_down:</h4>
-<code>chrome_options = Options()</code>
 <br>
-<code>chrome_options.add_argument('--headless')</code>
+
+<div class="container">
+    <div class="row">        
+        <div class="col-md-4 col-xs-12">
+            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+            <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-                    browser.jpg" width="320" height="180">
+            </a>
+        </div>
+       <code>chrome_options = Options()</code>
+       <code>chrome_options.add_argument('--headless')</code>
+   </div>
+</div>
+
 <p align="center" display="block" margin-left="auto margin-right="auto">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
 <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
