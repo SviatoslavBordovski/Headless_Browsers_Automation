@@ -13,8 +13,6 @@
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
 <p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
 <br>
-
-<div class="container">
            <div align="right"><a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
             <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
             </a>
@@ -33,7 +31,6 @@
            </p>
         
    </div>
-</div>
 
 <br>
 <p align="center" display="block" margin-left="auto margin-right="auto">
