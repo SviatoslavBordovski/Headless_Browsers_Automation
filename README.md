@@ -27,6 +27,7 @@
         </div>
         <br>
         <div style="text-align: right">
+            <div style="display:inline-block">
             <h4>How it looks for the Chrome browser :point_down:</h4>
             <code>chrome_options = Options()</code>
             <br>
@@ -36,6 +37,7 @@
             <code>firefox_options = Options()</code>
             <br>
             <code>firefox_options.add_argument('--headless')</code>
+            </div>
         </div>
    </div>
 </div>
