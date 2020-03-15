@@ -21,13 +21,12 @@
 <div class="container">
     <div class="row">        
         <div style="float:right">
-            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+           <p align="right"><a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
             <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
             </a>
-        </div>
-        <br>
-        <div style="text-align: right">
-            <div style="display:inline-block">
+           </p>
+<br>
+           <p>
             <h4>How it looks for the Chrome browser :point_down:</h4>
             <code>chrome_options = Options()</code>
             <br>
@@ -37,7 +36,7 @@
             <code>firefox_options = Options()</code>
             <br>
             <code>firefox_options.add_argument('--headless')</code>
-            </div>
+           </p>
         </div>
    </div>
 </div>
