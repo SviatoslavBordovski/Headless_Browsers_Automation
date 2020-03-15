@@ -23,9 +23,9 @@
 
 <div class="container">
     <div class="row">        
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-4 col-xs-12" style="float: right">
             <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img border-radius="3px" alt="headless-browser" style="float: right" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
+            <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
             </a>
         </div>
         <br>
