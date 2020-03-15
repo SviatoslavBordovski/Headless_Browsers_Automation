@@ -47,7 +47,7 @@ Firefox and Chrome do not have big difference in the automated testing:</p>
    <li>It could be a part of TDD that is very interesting and effective approach in web automation testing.</li>
 </ol>
 
-<h3>:+1: Popular Headless Browsers:</h3>
+<h3>U+261D Popular Headless Browsers U+261D</h3>
 <ul>
    <li>Google <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> - the Headless Browser Puppeteer is    a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also      can also be tweaked to use full (non-headless) Chrome or Chromium</li>
    <li>Google Chrome since version 59</li>
