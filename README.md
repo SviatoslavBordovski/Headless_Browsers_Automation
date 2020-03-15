@@ -11,7 +11,7 @@
 <body>
 <p>Each Browser has own specific of the testing regarding automation.</p>
 
-<p>Firefox and Chrome do not have big difference in the automated testing:</p>
+<h3>Firefox and Chrome do not have big difference in the automated testing:</h3>
 
 <p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
@@ -29,9 +29,9 @@
 <code>firefox_options.add_argument('--headless')</code>
 <br>
 
-<hr style="border-top: 0.5px solid red">
+<hr style="border-top: 1px solid red">
 
-<p align="center" display="block" margin-left="auto margin-right="auto" margin-bottom="50px">
+<p align="center" display="block" margin-left="auto margin-right="auto">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
 <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="400" height="240">
 </a>
