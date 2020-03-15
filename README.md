@@ -13,7 +13,11 @@
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
 <p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
 <br>
-           <div align="right"><a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+           <div align="center">
+           <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+            <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
+            </a>
+           <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
             <img border-radius="3px" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180">
             </a>
            </div>
@@ -35,7 +39,7 @@
 <br>
 <p align="center" display="block" margin-left="auto margin-right="auto">
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240"> <img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240">
+<img border="3" alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="480" height="240">
 </a>
 </p>
 <br>
