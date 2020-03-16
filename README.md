@@ -30,8 +30,6 @@
             <br>
             <code>firefox_options.add_argument('--headless')</code>
            </p>
-        
-   </div>
 
 <br>
 <h3>:bulb: Advantages of using <b>headless</b> browser testing approach are:</h3>
