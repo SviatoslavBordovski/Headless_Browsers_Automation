@@ -7,7 +7,7 @@
 <body>
 <p>Each Browser has own specific of the testing regarding automation.</p>
 
-<h3>Firefox and Chrome do not have big difference in the automated testing:</h3>
+<h3>Firefox and Chrome do not have a big difference :trollface: in the automated testing:</h3>
 
 <p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
@@ -34,7 +34,7 @@
    </div>
 
 <br>
-<h3>Advantages of using <b>headless</b> browser testing approach are:</h3>
+<h3>:bulb: Advantages of using <b>headless</b> browser testing approach are:</h3>
 <br>
 <ol>
    <li>Better test performance compared to browser automation.</li>
@@ -44,7 +44,7 @@
    <li>It could be a part of TDD that is very interesting and effective approach in web automation testing.</li>
 </ol>
 
-<h3>:point_up: Popular Headless Browsers :point_up:</h3>
+<h3>:point_up: Popular Headless Browsers:</h3>
 <ul>
    <li>Google <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> - the Headless Browser Puppeteer is    a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also      can also be tweaked to use full (non-headless) Chrome or Chromium</li>
    <li>Google Chrome since version 59</li>
