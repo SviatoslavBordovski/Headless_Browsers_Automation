@@ -5,7 +5,7 @@
 </header>
 
 <body>
-<p>Each Browser has own specific of the testing regarding automation.</p>
+<p>Each Browser has own specific behaviour of the test automation.</p>
 
 <h3>Firefox and Chrome do not have a big difference :trollface: in the automated testing:</h3>
 
