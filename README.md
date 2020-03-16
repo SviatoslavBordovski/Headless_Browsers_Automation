@@ -14,14 +14,11 @@
 <p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
 <br>
            <div align="center">
+           <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation"><img alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180" margin="15px" hspace="30"></a>
            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180" margin="15px" hspace="30">
-            </a>
-           <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img alt="headless-browser" src="https://miro.medium.com/max/3440/0*WHo7bG8yHKyt_nzn.png" width="320" height="180" margin="15px" hspace="30">
-            </a>
+            <img alt="headless-browser" src="https://miro.medium.com/max/3440/0*WHo7bG8yHKyt_nzn.png" width="320" height="180" margin="15px" hspace="30"></a>
            </div>
-<br>
+           <br>
            <p align="left">
             <h4>How it looks for the Chrome browser :point_down:</h4>
             <code>chrome_options = Options()</code>
@@ -47,7 +44,7 @@
    <li>It could be a part of TDD that is very interesting and effective approach in web automation testing.</li>
 </ol>
 
-<h3>:point_up:	Popular Headless Browsers :point_up:</h3>
+<h3>:point_up: Popular Headless Browsers :point_up:</h3>
 <ul>
    <li>Google <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> - the Headless Browser Puppeteer is    a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also      can also be tweaked to use full (non-headless) Chrome or Chromium</li>
    <li>Google Chrome since version 59</li>
