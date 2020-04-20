@@ -22,7 +22,7 @@
            <br>
            <div>
            <p align="left">
-            <h4>How it looks for the Chrome browser :point_down:</h4>
+            <h4>:stars: How it looks for the Chrome browser</h4>
             <code>chrome_options = Options()</code>
             <br>
             <code>chrome_options.add_argument('--headless')</code>
