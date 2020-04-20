@@ -27,7 +27,7 @@
             <br>
             <code>chrome_options.add_argument('--headless')</code>
             <br>
-            <h4>:point_down: and for the Firefox browser...</h4>
+            <h4>:fox_face: and for the Firefox browser...</h4>
             <code>firefox_options = Options()</code>
             <br>
             <code>firefox_options.add_argument('--headless')</code>
