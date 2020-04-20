@@ -8,10 +8,11 @@
 <p>Each Browser has own specific behaviour of the test automation.</p>
 
 <h3>Firefox and Chrome do not have a big difference :trollface: in the automated testing:</h3>
-
+<div>
 <p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
 <p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
 <p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
+</div>
 <br>
            <div align="center">
            <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation"><img alt="headless-browser" src="https://www.multidots.com/wp-content/uploads/2018/07/Headless-browser.jpg" width="320" height="180" margin="15px" hspace="30"></a>
@@ -19,6 +20,7 @@
             <img alt="headless-browser" src="https://miro.medium.com/max/3440/0*WHo7bG8yHKyt_nzn.png" width="320" height="180" margin="15px" hspace="30"></a>
            </div>
            <br>
+           <div>
            <p align="left">
             <h4>How it looks for the Chrome browser :point_down:</h4>
             <code>chrome_options = Options()</code>
@@ -30,6 +32,7 @@
             <br>
             <code>firefox_options.add_argument('--headless')</code>
            </p>
+           </div>
 
 <br>
 <h3>:bulb: Advantages of using <b>headless</b> browser testing approach are:</h3>
