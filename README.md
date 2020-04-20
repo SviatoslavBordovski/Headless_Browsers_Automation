@@ -35,6 +35,7 @@
            </div>
 
 <br>
+<div>
 <h3>:bulb: Advantages of using <b>headless</b> browser testing approach are:</h3>
 <br>
 <ol>
@@ -44,7 +45,8 @@
    <li>Scrape website without a render of the full browser, you just need to compare some data, prices for instance.</li>
    <li>It could be a part of TDD that is very interesting and effective approach in web automation testing.</li>
 </ol>
-
+</div>
+<div>
 <h3>:point_up: Popular Headless Browsers:</h3>
 <ul>
    <li>Google <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> - the Headless Browser Puppeteer is    a Node library. It gives you a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It also      can also be tweaked to use full (non-headless) Chrome or Chromium</li>
@@ -53,5 +55,6 @@
    <li><a href="http://htmlunit.sourceforge.net/">HtmlUnit</a> is a “GUI-Less browser for Java programs”. It models HTML        documents and provides an API that allows you to invoke pages, fill out forms, click links, etc… just like you do in          your “normal” browser</li>
    <li><a href="https://splinter.readthedocs.io/en/latest/">Splinter</a> is a headless browser Python-centric option.  It's      open sourced and is used for testing web applications using Python.  For example, you can use it to automate browser          actions, such as visiting URLs and interacting with their items</li>
 </ul>
+</div>
 </body>
 </html>
