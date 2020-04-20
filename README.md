@@ -10,7 +10,7 @@
 <h3>Firefox and Chrome do not have a big difference :trollface: in the automated testing:</h3>
 <div>
 <p>:pushpin: <i>Geckodriver</i> is required for the <b>Firefox</b> and <i>chromedriver</i> is required for the <b>Chrome</b> browser.</p>
-<p>:pushpin: Make sure that you have set the path of each driver. It is required as well.</p>
+<p>:pushpin: Make sure that you have set the path of each driver. It is required as well for running tests.</p>
 <p>:pushpin: You need to import <b>options</b> and add <b>--headless</b> argument.</p>
 </div>
 <br>
