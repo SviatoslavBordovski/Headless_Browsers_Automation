@@ -13,6 +13,7 @@ driver.implicitly_wait(5) #Wait for the element detection on the page
 driver.get('https://google.com')
 print(driver.title, 'website is launched') #result of running so we could see it in the terminal
 
+#Find the field and type the text to find:
 driver.find_element_by_name('q').send_keys('I love Python')
 print('Keys are sent')
 
