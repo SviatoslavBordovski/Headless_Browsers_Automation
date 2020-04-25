@@ -17,6 +17,7 @@ print(driver.title, 'website is launched') #result of running so we could see it
 driver.find_element_by_name('q').send_keys('I love Python')
 print('Keys are sent')
 
+#Click to start the search:
 driver.find_element_by_name('btnK').click()
 print('Button clicked')
 
