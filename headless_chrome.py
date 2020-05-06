@@ -10,7 +10,7 @@ chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(chrome_options=chrome_options, executable_path="/home/sb/chromedriverlinux/chromedriver")
 driver.implicitly_wait(5) #Wait for the element detection on the page
 
-#Open the url:
+#Open the target url:
 driver.get('https://google.com')
 print(driver.title, 'website is launched') #result of running so we could see it in the terminal
 
