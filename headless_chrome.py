@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 
-#Assign the "--headless" value to the "chrome_options" that were declared at the beginning, give a path of chromedriver:
+#Assign the '--headless' value to the 'chrome_options' that were declared at the beginning, give a path to the chromedriver:
 driver = webdriver.Chrome(chrome_options=chrome_options, executable_path="/home/sb/chromedriverlinux/chromedriver")
 driver.implicitly_wait(5) #wait for the element detection on the page
 
