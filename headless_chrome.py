@@ -22,7 +22,7 @@ print('Keys are sent')
 driver.find_element_by_name('btnK').click()
 print('Button clicked')
 
-#Close the browser and stop the work of driver:
+#Close the browser and stop driver's work:
 driver.close()
 driver.quit()
 print('Mission Accomplished!')
