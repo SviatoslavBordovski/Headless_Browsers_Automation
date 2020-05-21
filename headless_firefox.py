@@ -10,7 +10,7 @@ firefox_options.add_argument('--headless')
 driver = webdriver.Firefox(executable_path="/home/sb/geckodriver", firefox_options=firefox_options)
 driver.implicitly_wait(5) #Wait for the element detection on the page
 
-
+#Open the target url:
 driver.get("https://google.com")
 print(driver.title, 'website is launched')
 
