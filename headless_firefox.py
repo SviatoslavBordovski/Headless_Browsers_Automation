@@ -14,10 +14,12 @@ driver.implicitly_wait(5) #Wait for the element detection on the page
 driver.get("https://google.com")
 print(driver.title, 'website is launched')
 
+#Find the field and type the text to find:
 input = driver.find_element_by_name('q')
 input.send_keys('SELENIUM PYTHON IS COOL')
 print('Keys are sent')
 
+#Click button to start the search:
 input.send_keys(Keys.ENTER)
 print('Button is clicked on the keyboard')
 
