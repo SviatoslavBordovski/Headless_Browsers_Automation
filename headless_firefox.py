@@ -2,8 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 
-firefox_options = Options() #Assign the options for the webdriver.FirefoxOptions
-firefox_options.add_argument('--headless') #Declare running test with option of 'headless' browser
+#Declare the required conditions for testing:
+firefox_options = Options()
+firefox_options.add_argument('--headless')
+
 driver = webdriver.Firefox(executable_path="/home/sb/geckodriver", firefox_options=firefox_options) #Geckodriver path
 driver.implicitly_wait(5) #Wait for the element detection on the page
 
