@@ -23,7 +23,7 @@ print('Keys are sent')
 input.send_keys(Keys.ENTER)
 print('Button is clicked on the keyboard')
 
+#Close the browser and stop driver's work:
 driver.close()
 driver.quit()
-
 print('Misson accomplished')
