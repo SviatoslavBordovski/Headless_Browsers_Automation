@@ -53,7 +53,7 @@
    <li>Google Chrome since version 59</li>
    <li>Firefox versions 55 and 56</li>
    <li><a href="http://htmlunit.sourceforge.net/">HtmlUnit</a> is a “GUI-Less browser for Java programs”. It models HTML        documents and provides an API that allows you to invoke pages, fill out forms, click links, etc… just like you do in          your “normal” browser</li>
-   <li><a href="https://splinter.readthedocs.io/en/latest/">Splinter</a> is a headless browser Python-centric option.  It's      open sourced and is used for testing web applications using Python.  For example, you can use it to automate browser          actions, such as visiting URLs and interacting with their items</li>
+   <li><a href="https://splinter.readthedocs.io/en/latest/">Splinter</a> is a headless browser Python-centric option.  It's      open-sourced browser and is used for testing web applications using Python.  For example, you can use it to automate browser actions, such as visiting URLs and interacting with their items</li>
 </ul>
 </div>
 </body>
