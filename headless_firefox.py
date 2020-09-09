@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 
-#Declare the required conditions for testing:
+#Declare required conditions for testing:
 firefox_options = Options()
 firefox_options.add_argument('--headless')
 
